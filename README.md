@@ -3,5 +3,6 @@ A project archive of all of the projects [@WilliamDavidHarrison](https://github.
 
 ## Archived Projects
 
-| Project | Archived | Description |
-|-|-|-|
+| Project | Archived |
+|-|-|
+| [CoinflipJS](https://github.com/wh-archive/coinflipjs) | January 7, 2023 |
